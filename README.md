@@ -9,4 +9,5 @@ Helps you solve wordle
   - 1 : If the letter is in the word but in the wrong position. (Yellow)
   - 2 : If the letter is in the correct position. (Green)
 - Type in the second word that you see in the terminal.
-  Repeat this until you find the right word.
+
+Repeat this until you find the right word.
