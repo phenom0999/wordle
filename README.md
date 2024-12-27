@@ -1,4 +1,4 @@
 # wordle
 Helps you solve wordle
 
-** Run wordle.py **
+****Run wordle.py****
